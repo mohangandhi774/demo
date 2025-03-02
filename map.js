@@ -3,7 +3,7 @@
 //MAP
 
 let score=[1,3,5,7];
-let add=score.map((v,i,a)=>a+1);
+let add=score.map((v,i,a)=>a+1+2);
 console.log(add);
 
 //REDUCE
