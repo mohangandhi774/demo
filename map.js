@@ -16,5 +16,5 @@ console.log(star);
 //FILTER
 
 let disney=[10,20,30,40,90];
-let happy=disney.filter((value,index,actual)=>value==10);
+let happy=disney.filter((value,index,actual)=>value==100);
 console.log(happy);
